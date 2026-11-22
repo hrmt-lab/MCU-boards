@@ -1,0 +1,11 @@
+# KiCad-generated files and directories.
+.history/
+*-backups/
+_autosave-*
+fp-info-cache
+~*.lck
+*.kicad_prl
+tools/__pycache__/
+tools/r*.png
+tools/*.json
+!tools/.guard.json

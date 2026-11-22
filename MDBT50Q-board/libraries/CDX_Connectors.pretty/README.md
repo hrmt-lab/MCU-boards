@@ -1,0 +1,1 @@
+Project-specific edge-silk variants. Standard KiCad pad shapes, coordinates and drills are retained. J1 front extends 1.3 mm beyond the finished edge. Do not substitute a standard footprint ID when updating: use the registered CDX_Connectors library. J1 STEP is bundled under ../3dmodels.

@@ -1,0 +1,10 @@
+{
+ "MDBT50Q-board.kicad_pcb": "744b84d62c6995d8977b31a85cc27406b071de1eafe2c1eeb20afdb44bf4415b",
+ "MDBT50Q-board.kicad_sch": "9139d592cee35c786b1489c669df22aae1a1eaef2fe444293147e0bf7d75350e",
+ "battery-board/MDBT50Q-battery.kicad_pcb": "4aa7318a01ba967218f5326dd0cd91da496f979b5387e9a825d3f7c3c78d73d8",
+ "battery-board/MDBT50Q-battery.kicad_pro": "cb2dadf4cc5f143bedc51e7b4c67b12519c59cdaa8c3ce8a39cc8ba28d3b6df8",
+ "battery-board/fp-lib-table": "d6f14a9919bd8c6fe5bc9be8539be91118452084616b551d5fbaf971910a6148",
+ "libraries/fable_Parts.pretty/BatteryClip_MYOUNG_MY-AAA-19-J.kicad_mod": "d514eb9bfd5c32b83f0d083b38114ec2e3ade958b69753f7ccb3b1fd787f59be",
+ "libraries/fable_Parts.pretty/BatteryClip_MYOUNG_MY-AAA-20-J.kicad_mod": "c7228f4c1627b41ab99b6853cb95327960a722258129cf6070b87abe25e4cf44",
+ "libraries/fable_Parts.pretty/JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal_CornerSilk.kicad_mod": "24c7773a4fa72c10aad912d3541c2d474edb179f5e784d7354fb73ccf3a86567"
+}

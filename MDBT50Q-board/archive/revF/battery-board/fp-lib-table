@@ -1,0 +1,6 @@
+(fp_lib_table
+ (lib (name "Onigiri-Lib")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Onigiri-Lib.pretty")(options "")(descr "Project-local FPC library"))
+ (lib (name "kbd_Parts")(type "KiCad")(uri "${KIPRJMOD}/../libraries/kbd_Parts.pretty")(options "")(descr "Project-local switch library"))
+ (lib (name "CDX_Connectors")(type "KiCad")(uri "${KIPRJMOD}/../libraries/CDX_Connectors.pretty")(options "")(descr "Explicit edge-mount silk variants; standard pads and drills"))
+ (lib (name "fable_Parts")(type "KiCad")(uri "${KIPRJMOD}/../libraries/fable_Parts.pretty")(options "")(descr "Rev D: MYOUNG AAA battery clips"))
+)

@@ -1,0 +1,84 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-11-16T00:17:16",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.8",
+    "schematic_parity": [],
+    "source": "MDBT50Q-board-fable.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Silkscreen clipped by solder mask",
+            "items": [
+                {
+                    "description": "セグメント of SW1 、F.Silkscreen 上",
+                    "pos": {
+                        "x": 61.61,
+                        "y": 43.8
+                    },
+                    "uuid": "f452b456-da85-4648-b460-64f1f52484cc"
+                },
+                {
+                    "description": "パッド 1 [unconnected-(SW2-A-Pad1)] - SW2 ( F.Cu 上)",
+                    "pos": {
+                        "x": 63.099999,
+                        "y": 43.95
+                    },
+                    "uuid": "ac49fde8-cc97-4969-ba19-af45ba29e183"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        },
+        {
+            "description": "Silkscreen clipped by solder mask",
+            "items": [
+                {
+                    "description": "セグメント of SW1 、F.Silkscreen 上",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 43.8
+                    },
+                    "uuid": "3adf6586-a702-4358-8fea-904549c68a08"
+                },
+                {
+                    "description": "パッド 1 [unconnected-(SW2-A-Pad1)] - SW2 ( F.Cu 上)",
+                    "pos": {
+                        "x": 63.099999,
+                        "y": 43.95
+                    },
+                    "uuid": "ac49fde8-cc97-4969-ba19-af45ba29e183"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        }
+    ]
+}
