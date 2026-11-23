@@ -510,7 +510,7 @@
     ]
   },
   "meta": {
-    "filename": "MDBT50Q-board.kicad_pro",
+    "filename": "MDBT50Q-battery.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -800,17 +800,17 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "MDBT50Q-board.kicad_sch",
-        "name": "MDBT50Q-board",
-        "uuid": "055b3003-8cf0-42f7-927e-2cf1136fcf40"
+        "filename": "MDBT50Q-battery.kicad_sch",
+        "name": "MDBT50Q-battery",
+        "uuid": "0fdcc220-6635-51d7-92ec-c31f9429ec45"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-19,C1-12,F1,J1-7,L1-2,Q1,R1-9,SW1-2,U1-6,Y1",
+    "used_designators": "BAT1-2,BT1-4,F1,J9,SW2",
     "variants": []
   },
   "sheets": [
     [
-      "055b3003-8cf0-42f7-927e-2cf1136fcf40",
+      "0fdcc220-6635-51d7-92ec-c31f9429ec45",
       "ルート"
     ]
   ],
